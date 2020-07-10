@@ -1,0 +1,7 @@
+[package]
+name = "Portfolio"
+version = "0.0.1"
+authors = ["Urban Avsec <urban.avsec@outlook.com>"]
+edition = "2018"
+
+[dependencies]
